@@ -1,0 +1,18 @@
+{
+    "name": "newpc/tpooo",
+    "autoload": {
+        "psr-4": {
+            "Newpc\\Tpooo\\": "src/",
+            "Router\\" : "routes/",
+            "App\\": "app/",
+            "Database\\": "database/"
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "lauri"
+        }
+    ],
+    "require": {}
+}
